@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="resId">
+        <item>@drawable/kimbap01</item>
+        <item>@drawable/chicken01</item>
+        <item>@drawable/spagettil01</item>
+        <item>@drawable/burger01</item>
+        <item>@drawable/pizza01</item>
+        <item>@drawable/pork_rice_soup</item>
+        <item>@drawable/dumpling</item>
+        <item>@drawable/jajangmyeon</item>
+        <item>@drawable/pudding</item>
+    </integer-array>
+
+    <string-array name="title">
+        <item>김밥</item>
+        <item>치킨</item>
+        <item>스파게티</item>
+        <item>햄버거</item>
+        <item>피자</item>
+        <item>돼지국밥</item>
+        <item>만두</item>
+        <item>자장면</item>
+        <item>푸딩</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>한국 전통 김밥</item>
+        <item>닭백숙은 필요 없어도 치킨은 아니다</item>
+        <item>이탈리아의 자랑, 스파게티</item>
+        <item>미국인들의 사랑, 햄버거</item>
+        <item>이탈리아의 자랑, 피자</item>
+        <item>뚝배기에 담긴 한국의 얼</item>
+        <item>만두, 만두, 만두</item>
+        <item>어머니가 싫어하는 자장면</item>
+        <item>달콤한 디저트, 푸딩</item>
+    </string-array>
+</resources>
